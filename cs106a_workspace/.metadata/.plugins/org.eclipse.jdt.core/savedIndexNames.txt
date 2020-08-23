@@ -1,0 +1,2 @@
+C:\Users\Ext03621\Downloads\stanford_eclipse\eclipse\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\1801259843.index
+C:\Users\Ext03621\Downloads\stanford_eclipse\eclipse\cs106a_workspace\.metadata\.plugins\org.eclipse.jdt.core\214568644.index

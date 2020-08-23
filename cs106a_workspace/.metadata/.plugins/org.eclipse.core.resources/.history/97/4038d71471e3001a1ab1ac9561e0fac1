@@ -1,0 +1,8 @@
+import acm.graphics.*;
+import acm.program.*;
+public class Graphics extends GraphicsProgram{
+	public void run(){
+      GLabel lab=new GLabel("Hello,World",10,10);
+      add(lab);
+	}
+}

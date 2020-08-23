@@ -1,0 +1,9 @@
+!SESSION 2020-08-21 11:09:19.489 -----------------------------------------------
+eclipse.buildId=M20060921-0945
+java.version=1.6.0_02
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-08-21 11:09:24.000
+!MESSAGE A workspace crash was detected. The previous session did not exit normally.

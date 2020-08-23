@@ -1,0 +1,12 @@
+import acm.graphics.*;
+import acm.program.*;
+import java.awt.*;
+public class Graphics extends GraphicsProgram{
+	public void run(){
+      GLabel lab=new GLabel("Hello,World",25,25);
+      lab.setColor(Color.RED);
+      GRect rect=new GRect(10,10,30,50);
+      add(lab);
+      add(rect);
+	}
+}
